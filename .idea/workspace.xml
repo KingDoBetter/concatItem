@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80a06160-d219-4786-9666-0a15cff60d06" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/Detector.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/Detector.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/app.35021bea93e3f2f233ba.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/app.35021bea93e3f2f233ba.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/css/app.aa992bd93a0f68ca2b46ff61249176b3.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2837">
-              <caret column="787" selection-start-column="787" selection-end-column="787" />
+            <state relative-caret-position="324">
+              <caret column="2756" lean-forward="true" selection-start-column="2756" selection-end-column="2756" />
               <folding>
                 <element signature="e#11874#14729#2" expanded="true" />
                 <element signature="e#14734#17595#1" expanded="true" />
@@ -49,8 +48,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/js/app.35021bea93e3f2f233ba.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret column="485" lean-forward="true" selection-start-column="485" selection-end-column="485" />
+            <state relative-caret-position="2724">
+              <caret column="27580" selection-start-column="27580" selection-end-column="27580" />
             </state>
           </provider>
         </entry>
@@ -82,10 +81,23 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/echarts.min.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/three.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2688" />
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>660.</find>
       <find>b0.upaiyun</find>
     </findStrings>
     <replaceStrings>
@@ -100,6 +112,7 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/static/Detector.js" />
+        <option value="$PROJECT_DIR$/static/js/app.35021bea93e3f2f233ba.js" />
       </list>
     </option>
   </component>
@@ -181,12 +194,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560688484178</updated>
-      <workItem from="1560688485361" duration="716000" />
+      <workItem from="1560688485361" duration="1262000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="716000" />
+    <option name="totallyTimeSpent" value="1262000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="689" y="175" width="1036" height="733" extended-state="0" />
@@ -215,17 +228,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/static/Detector.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="93" column="79" selection-start-line="93" selection-start-column="79" selection-end-line="93" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/js/app.35021bea93e3f2f233ba.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret column="485" lean-forward="true" selection-start-column="485" selection-end-column="485" />
+        <state relative-caret-position="2724">
+          <caret column="27580" selection-start-column="27580" selection-end-column="27580" />
         </state>
       </provider>
     </entry>
@@ -243,6 +249,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/static/Detector.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="93" column="79" selection-start-line="93" selection-start-column="79" selection-end-line="93" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/echarts.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/three.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2688" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="139">
@@ -252,8 +273,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/css/app.aa992bd93a0f68ca2b46ff61249176b3.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2837">
-          <caret column="787" selection-start-column="787" selection-end-column="787" />
+        <state relative-caret-position="324">
+          <caret column="2756" lean-forward="true" selection-start-column="2756" selection-end-column="2756" />
           <folding>
             <element signature="e#11874#14729#2" expanded="true" />
             <element signature="e#14734#17595#1" expanded="true" />
