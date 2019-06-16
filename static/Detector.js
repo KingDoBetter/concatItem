@@ -91,7 +91,7 @@ function init() {
 
   geometry = new THREE.Geometry();
 
-  var texture = THREE.ImageUtils.loadTexture( 'http://bmob-cdn-24377.b0.upaiyun.com/2019/03/26/2caf78e8408c5fe880bba544020ea660.png', null, animate );
+  var texture = THREE.ImageUtils.loadTexture( 'http://bmob-cdn-24377.bmobcloud.com/2019/03/26/2caf78e8408c5fe880bba544020ea660.png', null, animate );
   texture.magFilter = THREE.LinearMipMapLinearFilter;
   texture.minFilter = THREE.LinearMipMapLinearFilter;
 
